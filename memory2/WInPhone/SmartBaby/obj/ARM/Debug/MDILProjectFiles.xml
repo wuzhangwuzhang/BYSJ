@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>SmartBaby.dll</File>
+    <File>Assets\BadgeLogo.png</File>
+    <File>Assets\Logo.png</File>
+    <File>Assets\SplashScreen.png</File>
+    <File>Assets\SquareTile150x150.png</File>
+    <File>Assets\SquareTile71x71.png</File>
+    <File>Assets\StoreLogo.png</File>
+    <File>Assets\WideLogo.png</File>
+    <File>SplashScreenImage.jpg</File>
+    <File>Assets\AlignmentGrid.png</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>Assets\Tiles\FlipCycleTileLarge.png</File>
+    <File>Assets\Tiles\FlipCycleTileSmall.png</File>
+    <File>Assets\Tiles\IconicTileMediumLarge.png</File>
+    <File>Assets\Tiles\IconicTileSmall.png</File>
+    <File>Data\level0</File>
+    <File>Data\level1</File>
+    <File>Data\level2</File>
+    <File>Data\mainData</File>
+    <File>Data\managedAssemblies.txt</File>
+    <File>Data\PlayerConnectionConfigFile</File>
+    <File>Data\resources.assets</File>
+    <File>Data\Resources\unity default resources</File>
+    <File>Data\Resources\unity_builtin_extra</File>
+    <File>Data\sharedassets0.assets</File>
+    <File>Data\sharedassets1.assets</File>
+    <File>Data\sharedassets2.assets</File>
+    <File>Data\sharedassets3.assets</File>
+    <File>Data\StreamingAssets\test.mp4</File>
+    <File>AppManifest.xaml</File>
+    <File>Assets\Tiles\FlipCycleTileMedium.png</File>
+    <File>Assembly-CSharp-firstpass.dll</File>
+    <File>Assembly-CSharp.dll</File>
+    <File>Assembly-UnityScript-firstpass.dll</File>
+    <File>BridgeInterface.winmd</File>
+    <File>UnityEngine.dll</File>
+    <File>UnityEngine.UI.dll</File>
+    <File>UnityPlayer.winmd</File>
+    <File>WinRTBridge.dll</File>
+    <File>WinRTLegacy.dll</File>
+    <File>BridgeInterface.dll</File>
+    <File>UnityPlayer.dll</File>
+    <File>myy.png</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>
